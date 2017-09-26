@@ -1,5 +1,5 @@
 # convert2sonic-pi
-Convert MusicXML file to a Sonic-Pi file
+Convert a MusicXML file to a Sonic-Pi file
 I only spend an hour or two on building this project, as to test the possibilities … and I had an hour or two to spare :-)
 
 Known shortcomings:
